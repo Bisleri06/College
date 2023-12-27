@@ -1,8 +1,4 @@
-/*
-Name: Rushikesh Patade
-Roll no.: PG-19
-Batch: G2
-*/
+//this will make it
 
 #include <iostream>
 using namespace std;
